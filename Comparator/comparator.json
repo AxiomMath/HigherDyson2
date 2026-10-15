@@ -1,0 +1,43 @@
+{
+    "challenge_module": "Challenge.Basic",
+    "solution_module": "Solution.Basic",
+    "theorem_names": [
+        "HigherDyson2.Challenge.thm_combinatorial_gen_series",
+        "HigherDyson2.Challenge.thm_full_rank_symmetry",
+        "HigherDyson2.Challenge.thm_finite_recurrence",
+        "HigherDyson2.Challenge.thm_finite_Cx_vanishes",
+        "HigherDyson2.Challenge.thm_finite_functional_equation",
+        "HigherDyson2.Challenge.thm_finite_defect_unique",
+        "HigherDyson2.Challenge.thm_finite_defect_degree",
+        "HigherDyson2.Challenge.thm_finite_defect_constant_term",
+        "HigherDyson2.Challenge.thm_finite_defect_q_pole",
+        "HigherDyson2.Challenge.thm_elliptic_normal_convergence",
+        "HigherDyson2.Challenge.thm_elliptic_holomorphic_off",
+        "HigherDyson2.Challenge.thm_elliptic_twisted_law",
+        "HigherDyson2.Challenge.thm_elliptic_rho_holomorphic",
+        "HigherDyson2.Challenge.thm_elliptic_rho_leading",
+        "HigherDyson2.Challenge.thm_elliptic_simple_poles",
+        "HigherDyson2.Challenge.thm_elliptic_residue",
+        "HigherDyson2.Challenge.thm_elliptic_pole_genuine",
+        "HigherDyson2.Challenge.thm_elliptic_pole_removable",
+        "HigherDyson2.Challenge.thm_elliptic_ne_zero",
+        "HigherDyson2.Challenge.thm_elliptic_untwisted_law",
+        "HigherDyson2.Challenge.thm_theta_holomorphic",
+        "HigherDyson2.Challenge.thm_theta_twisted_law",
+        "HigherDyson2.Challenge.thm_theta_untwisted_law",
+        "HigherDyson2.Challenge.thm_theta_expansion",
+        "HigherDyson2.Challenge.thm_theta_unique",
+        "HigherDyson2.Challenge.thm_theta_coeff_normal",
+        "HigherDyson2.Challenge.thm_theta_coeff_holomorphic",
+        "HigherDyson2.Challenge.thm_theta_leading",
+        "HigherDyson2.Challenge.thm_theta_coeff_ne_zero",
+        "HigherDyson2.Challenge.thm_theta_finite_ne_zero",
+        "HigherDyson2.Challenge.thm_theta_positive"
+    ],
+    "permitted_axioms": [
+        "propext",
+        "Quot.sound",
+        "Classical.choice"
+    ],
+    "enable_nanoda": true
+}
